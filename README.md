@@ -1,7 +1,7 @@
 Hi 👋
 This is Ayush Kumar 😊
 
-I'm a CSE Undergrad 🎓 
+I'm a CSE Undergrad (2018-2022) 🎓 
 
 Interested in the field of Data Science & Analytics 📊
 
