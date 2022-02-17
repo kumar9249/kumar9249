@@ -7,7 +7,7 @@ Interested in the field of Data Science & Analytics. 📊
 
 With -
 • 15+ months of self learning experience
-• 4+ months of paid working experience
+• 5+ months of paid working experience
 
 Having decent knowledge of different Machine Learning algorithms and the mathematical concepts behind them. 📈
 
