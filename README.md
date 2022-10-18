@@ -1,9 +1,9 @@
 Hi 👋 
 This is Ayush Kumar 😊
 
-I'm a CSE undergrad (2018-2022) and a budding DATA professional.
+I'm a CSE undergrad (2018-2022) and a DATA professional.
 
-I have 11+ months of industry experience and decent knowledge in the field of DS/ML/DL.
+I have 1+ YoE in the industry  and decent knowledge of DS/ML/DL.
 
 I am - </br>
 -> Skilled in Python & SAS programming languages. </br>
